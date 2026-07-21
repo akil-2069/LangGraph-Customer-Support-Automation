@@ -1,0 +1,41 @@
+TECHNICAL MANUAL - ABC Technologies
+
+INSTALLATION GUIDE
+The application supports Windows 10/11, macOS 12+, and major Linux distributions.
+Download the installer from the official portal, run it with administrator privileges, and
+follow the setup wizard. Minimum requirements: 4GB RAM, 2GB free disk space, stable
+internet connection.
+
+COMMON LOGIN ISSUES
+If a customer cannot log in, check the following in order:
+1. Verify the email address is entered correctly (no typos, correct domain).
+2. Confirm the account is active and not suspended.
+3. Check if the customer is using the correct password; if forgotten, direct them to use
+   the "Forgot Password" link to reset via email.
+4. If using SSO, verify the identity provider connection is active.
+5. Clear browser cache and cookies if using the web application.
+
+APPLICATION CRASH TROUBLESHOOTING
+If the application crashes during file upload:
+1. Check the file size — maximum upload size is 500MB per file on Starter/Professional
+   plans, 2GB on Enterprise.
+2. Verify the file format is supported (CSV, XLSX, PDF, DOCX, PNG, JPG).
+3. Ensure a stable internet connection during upload; interrupted uploads can cause crashes.
+4. Clear the application cache and restart.
+5. Update to the latest version of the application, as crash bugs are frequently patched.
+6. If the issue persists after these steps, collect the crash log (Settings > Diagnostics >
+   Export Logs) and escalate to Technical Support with the log attached.
+
+CONFIGURATION ISSUES
+Configuration issues typically arise from incorrect API keys, expired tokens, or mismatched
+environment settings (staging vs production). Always verify the customer is using the
+correct API endpoint for their account region (US, EU, APAC).
+
+SYSTEM STATUS
+Customers can check real-time system status and incident history at the status page.
+Planned maintenance windows are announced 48 hours in advance via email and the
+in-app notification banner.
+
+BROWSER COMPATIBILITY
+The web application officially supports the latest two versions of Chrome, Firefox, Edge,
+and Safari. Internet Explorer is not supported.

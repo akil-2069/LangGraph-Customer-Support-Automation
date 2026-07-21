@@ -1,0 +1,43 @@
+FAQ DOCUMENT - ABC Technologies
+
+Q: How do I reset my password?
+A: Click "Forgot Password" on the login page, enter your registered email, and follow the
+reset link sent to your inbox. The link expires after 30 minutes.
+
+Q: Can I change my subscription plan at any time?
+A: Yes, you can upgrade or downgrade your plan at any time from Account Settings >
+Billing. Upgrades take effect immediately; downgrades take effect at the next billing cycle.
+
+Q: What happens if my payment fails?
+A: We will retry the payment 3 times over 7 days. If it continues to fail, your account will be
+temporarily restricted until payment is resolved. You will receive email notifications at each
+retry attempt.
+
+Q: How do I invite team members?
+A: Go to Account Settings > Team Members > Invite, enter their email address, and select
+their role (Admin, Editor, Viewer). They will receive an email invitation to join.
+
+Q: Is my data backed up?
+A: Yes, all customer data is backed up daily and retained for 30 days. Enterprise customers
+can request custom backup schedules.
+
+Q: How do I export my data?
+A: Navigate to Settings > Data Export, select the data range and format (CSV or JSON),
+and click Export. Large exports may take up to 24 hours to generate and will be emailed
+as a download link.
+
+Q: Do you offer a mobile app?
+A: Yes, our mobile apps are available for iOS and Android with core feature parity to the
+web application, excluding advanced reporting and custom integrations.
+
+Q: What is your refund policy?
+A: Full refunds are available within 14 days of purchase. See the Company Policy
+Document for full details. All refund requests require human supervisor approval.
+
+Q: How do I deactivate my account temporarily?
+A: Go to Account Settings > Account Status > Deactivate. This pauses billing without
+deleting your data. You can reactivate at any time by logging back in.
+
+Q: Who do I contact for urgent issues?
+A: For urgent technical issues, use the in-app chat for fastest response. For billing
+emergencies or escalations, requests are automatically routed to a human supervisor.

@@ -1,0 +1,35 @@
+COMPANY POLICY DOCUMENT - ABC Technologies
+
+REFUND POLICY
+Customers are eligible for a full refund within 14 days of purchase if they are not satisfied
+with the product. Refunds for annual subscriptions are prorated based on unused months
+after the 14-day window. All refund requests must be reviewed and approved by a human
+supervisor before processing. Refund requests typically take 5-7 business days to process
+once approved.
+
+CANCELLATION POLICY
+Customers may cancel their subscription at any time from their account settings. Cancellation
+takes effect at the end of the current billing cycle. No partial refunds are issued for
+cancellations unless they fall within the 14-day refund window. All cancellation requests
+require human supervisor approval before being finalized.
+
+ACCOUNT CLOSURE POLICY
+Account closure requests result in permanent deletion of customer data after a 30-day grace
+period. During the grace period, customers can reactivate their account. Account closure
+requires human supervisor approval due to the irreversible nature of data deletion after the
+grace period.
+
+COMPENSATION POLICY
+Service credits or compensation may be issued for verified service outages or critical bugs
+that caused business impact. All compensation requests must be reviewed and approved by
+a human supervisor. Compensation is typically issued as account credit, not cash refund.
+
+ESCALATION POLICY
+Requests involving legal threats, repeated unresolved issues, or requests to speak with
+management must be escalated to a human supervisor immediately. These requests cannot
+be resolved by automated agents.
+
+DATA PRIVACY POLICY
+Customer data is stored securely and is never shared with third parties without explicit
+consent. Customers may request a copy of their data or request deletion at any time in
+compliance with data protection regulations.
