@@ -1,0 +1,46 @@
+PRICING GUIDE - ABC Technologies
+
+SUBSCRIPTION PLANS
+
+Starter Plan - $29/month
+- Up to 5 team members
+- 10GB cloud storage
+- Basic reporting
+- Email support
+- Core business management features
+
+Professional Plan - $79/month
+- Up to 25 team members
+- 100GB cloud storage
+- Advanced reporting and analytics
+- Priority email and chat support
+- API access
+- Custom workflows
+
+Enterprise Plan - $199/month
+- Unlimited team members
+- 1TB cloud storage
+- Advanced reporting, analytics, and forecasting
+- 24/7 phone, chat, and email support
+- Full API access with higher rate limits
+- Custom integrations
+- Dedicated account manager
+- SLA guarantee of 99.9% uptime
+
+ANNUAL BILLING DISCOUNT
+Customers who choose annual billing instead of monthly billing receive a 20% discount
+on all plans. Annual plans are billed once per year.
+
+ADD-ONS
+- Additional storage: $10/month per 50GB
+- Additional team members beyond plan limit: $5/user/month
+- Advanced security package (SSO, audit logs): $49/month
+- Premium onboarding and training: one-time fee of $499
+
+FREE TRIAL
+All plans include a 14-day free trial with no credit card required. Customers can upgrade,
+downgrade, or cancel at any time during the trial period with no charge.
+
+PAYMENT METHODS
+We accept all major credit cards, ACH bank transfer (Enterprise plan only), and PayPal.
+Invoices for Enterprise customers can be paid via wire transfer upon request.
